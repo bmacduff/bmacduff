@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bmacduff
-- 👀 I’m interested in machine learning and data science
-- 💞️ I’m looking to collaborate on projects involving audio classification and music analysis using machine learning
+- 👀 I’m interested in software development in python and C, but also keen to develop more skills in other languages
 - 📫 How to reach me - brynmacduffee@gmail.com
 
 <!---
