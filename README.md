@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmacduff
-- 👀 I’m interested in software development in python and C, but also keen to develop more skills in other languages
+- 👀 I’m interested in software development in python, C, and web applications, but also keen to develop more skills in other languages
 - 📫 How to reach me - brynmacduffee@gmail.com
 
 <!---
